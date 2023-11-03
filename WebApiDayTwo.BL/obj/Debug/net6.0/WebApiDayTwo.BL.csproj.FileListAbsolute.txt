@@ -1,0 +1,15 @@
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\bin\Debug\net6.0\WebApiDayTwo.BL.deps.json
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\bin\Debug\net6.0\WebApiDayTwo.BL.dll
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\bin\Debug\net6.0\WebApiDayTwo.BL.pdb
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\bin\Debug\net6.0\WebApiDayTwo.DAL.dll
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\bin\Debug\net6.0\WebApiDayTwo.DAL.pdb
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\WebApiDayTwo.BL.csproj.AssemblyReference.cache
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\WebApiDayTwo.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\WebApiDayTwo.BL.AssemblyInfoInputs.cache
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\WebApiDayTwo.BL.AssemblyInfo.cs
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\WebApiDayTwo.BL.csproj.CoreCompileInputs.cache
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\WebApiDayTwo.BL.csproj.CopyComplete
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\WebApiDayTwo.BL.dll
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\refint\WebApiDayTwo.BL.dll
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\WebApiDayTwo.BL.pdb
+C:\Users\Eldreney\source\repos\WebApiDayOne\WebApiDayTwo.BL\obj\Debug\net6.0\ref\WebApiDayTwo.BL.dll
